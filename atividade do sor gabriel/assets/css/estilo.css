@@ -1,0 +1,20 @@
+body{
+    background-color: #4F4F4F;
+}
+
+#git{
+width: 800px;
+height: 20px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+   color: #FFA500; 
+}
+fieldset{
+    border:dotted darkmagenta;
+}
+input{
+    border-color: purple;
+    height: 3px;
+}
